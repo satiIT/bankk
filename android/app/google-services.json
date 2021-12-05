@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774234744389",
+    "project_id": "bankk-e10b8",
+    "storage_bucket": "bankk-e10b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774234744389:android:d8b1ef605a1564720be52c",
+        "android_client_info": {
+          "package_name": "com.example.bankk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774234744389-qogqnhu5557fr55rpaegfivlbsqrcnq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4I9C751RuW-gvp0SDETqiif6BKBQiWio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774234744389-qogqnhu5557fr55rpaegfivlbsqrcnq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
